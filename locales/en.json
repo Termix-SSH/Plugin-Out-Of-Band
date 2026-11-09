@@ -204,16 +204,43 @@
     "device": "BMC",
     "boot": "Boot from",
     "uefi": "UEFI mode",
-    "list": { "title": "List BMCs" },
-    "poll": { "title": "Read a BMC now" },
-    "powerState": { "title": "Get power state" },
-    "power-on": { "title": "Power on" },
-    "graceful-shutdown": { "title": "Shut down" },
-    "power-off": { "title": "Power off" },
-    "power-cycle": { "title": "Power cycle" },
-    "reset": { "title": "Reset" },
-    "setBootOnce": { "title": "Boot once from a device" },
-    "clearLog": { "title": "Clear event log" },
-    "health": { "title": "BMC health" }
+    "list": {
+      "title": "List BMCs"
+    },
+    "poll": {
+      "title": "Read a BMC now"
+    },
+    "powerState": {
+      "title": "Get power state"
+    },
+    "power-on": {
+      "title": "Power on"
+    },
+    "graceful-shutdown": {
+      "title": "Shut down"
+    },
+    "power-off": {
+      "title": "Power off"
+    },
+    "power-cycle": {
+      "title": "Power cycle"
+    },
+    "reset": {
+      "title": "Reset"
+    },
+    "setBootOnce": {
+      "title": "Boot once from a device"
+    },
+    "clearLog": {
+      "title": "Clear event log"
+    },
+    "health": {
+      "title": "BMC health"
+    }
+  },
+  "widget": {
+    "name": "Out-of-band",
+    "description": "Power and health of your server BMCs.",
+    "summary": "{{up}} of {{total}} up"
   }
 }

@@ -4,7 +4,7 @@
 
 <h1>Out-of-band</h1>
 
-<p>Power, sensors, event logs and consoles for server BMCs</p>
+<p>Power, sensors, event logs and consoles for server BMCs over Redfish, IPMI and Intel AMT</p>
 
 </div>
 
@@ -29,6 +29,7 @@ Read the [docs](https://docs.termix.site/plugins/out-of-band) to set it up and u
 - Serial over LAN console through a relay host (IPMI)
 - Link a BMC to a Termix host, or reach IPMI through any SSH host
 - Logins are stored encrypted and never shown again
+- A dashboard card and Termix actions for power
 
 <br />
 
