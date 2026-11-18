@@ -18,7 +18,7 @@
   "dependencies": {
     "@xterm/addon-fit": "^0.11.0",
     "@xterm/xterm": "^6.0.0",
-    "lucide-react": "^1.72.0",
+    "lucide-react": "^1.73.0",
     "react-xtermjs": "^1.0.10"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "@types/node": "^26.2.0",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
-    "better-sqlite3": "^13.1.1",
+    "better-sqlite3": "^13.2.0",
     "husky": "^9.1.7",
     "i18next": "^26.4.2",
     "jsdom": "^31.0.0",
